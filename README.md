@@ -10,7 +10,7 @@ https://github.com/conda-forge/miniforge#mambaforge
 
 Set up your environment
 
-```mamba create --name ribbit-data-env scipy numpy pandas matplotlib ipykernel jupyter```
+```mamba create --name ribbit-data-env scipy numpy pandas matplotlib ipykernel jupyter ipympl```
 
 Activate the environment
 
