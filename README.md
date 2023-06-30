@@ -2,10 +2,20 @@
 Examples for data analysis and interpretation of Ribbit Network observations
 ---
 
-**Install mamba**
+### Setup
+
+Install mamba
 
 https://github.com/conda-forge/miniforge#mambaforge
 
-**Setting up your environment**
+Set up your environment
 
-```mamba create --name ribbit-data-env scipy numpy pandas matplotlib```
+```mamba create --name ribbit-data-env scipy numpy pandas matplotlib ipykernel```
+
+Activate the environment
+
+```mamba activate ribbit-data-env```
+
+Add environment to ipython for use in jupyter notebooks
+
+```ipython kernel install --user --name=ribbit-data-env```
