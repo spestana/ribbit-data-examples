@@ -38,6 +38,6 @@ Data can be downloaded by selecting the sensor of interest on the map, then from
 
 ---
 
-[^1] The jupyter notebooks in this repo are based in part on material from the Data Analysis for Water Science course at the University of Washington ([current version here](https://mountain-hydrology-research-group.github.io/data-analysis/), and [2020 version here](https://spestana.github.io/data-analysis/)).
+[^1]: The jupyter notebooks in this repo are based in part on material from the Data Analysis for Water Science course at the University of Washington ([current version here](https://mountain-hydrology-research-group.github.io/data-analysis/), and [2020 version here](https://spestana.github.io/data-analysis/)).
 
 
