@@ -1,10 +1,12 @@
-# ribbit-data-examples
-Examples for data analysis and interpretation of Ribbit Network observations
+# Interpretation and analysis of Ribbit Network observations
+
+This repository contains instructions for accessing Ribbit Network data, and example jupyter notebooks for reading, plotting, interpreting, and performing analysis on the data using python and common python packages[^1].
+
 ---
 
 ### Geting started
 
-Install mamba
+Install mamba (or your favorite package manager for python)
 
 https://github.com/conda-forge/miniforge#mambaforge
 
@@ -34,6 +36,8 @@ Data can be downloaded by selecting the sensor of interest on the map, then from
 
 [![animation showing the steps for downloading Ribbit Network data from the dashboard](images/download.gif)](https://dashboard.ribbitnetwork.org/)
 
+---
 
+[^1]: The jupyter notebooks in this repo are based in part on material from the Data Analysis for Water Science course at the University of Washington ([current version here](https://mountain-hydrology-research-group.github.io/data-analysis/), and [2020 version here](https://spestana.github.io/data-analysis/)).
 
 
