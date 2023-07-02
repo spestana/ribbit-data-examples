@@ -1,5 +1,4 @@
-# ribbit-data-examples
-Examples for data analysis and interpretation of Ribbit Network observations
+# Example data analysis and interpretation of Ribbit Network observations
 ---
 
 ### Geting started
