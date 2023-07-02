@@ -3,7 +3,7 @@
 
 ### Geting started
 
-Install mamba
+Install mamba (or your favorite package manager for python)
 
 https://github.com/conda-forge/miniforge#mambaforge
 
