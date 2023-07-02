@@ -32,7 +32,7 @@ Ribbit Network data are currently available through the real-time [data dashboar
 
 Data can be downloaded by selecting the sensor of interest on the map, then from the dropdown menus select the duration (up to 30 days) and sampling interval (from 1 minute raw samples to 1 hour averages), then click "Export as CSV" to begin the download.
 
-![animation showing the steps for downloading Ribbit Network data from the dashboard](images/download.gif)
+[![animation showing the steps for downloading Ribbit Network data from the dashboard](images/download.gif)](https://dashboard.ribbitnetwork.org/)
 
 
 
